@@ -56,7 +56,7 @@ dns filter.png
 
 ### TCP/DNS Details
 
-packet analysis.png
+Packet analysis.png
 
 ---
 
