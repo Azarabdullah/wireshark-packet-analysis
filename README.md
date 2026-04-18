@@ -50,10 +50,6 @@ Performed network packet analysis using Wireshark to inspect DNS queries and res
 
 ## 📸 Screenshots
 
-### DNS Queries
-
-(Add screenshot here)
-
 ### DNS Response
 
 (Add screenshot here)
