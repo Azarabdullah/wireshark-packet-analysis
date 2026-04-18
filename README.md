@@ -52,11 +52,11 @@ Performed network packet analysis using Wireshark to inspect DNS queries and res
 
 ### DNS Response
 
-(dns filter.png)
+dns filter.png
 
 ### TCP/DNS Details
 
-(packet analysis.png)
+packet analysis.png
 
 ---
 
